@@ -102,6 +102,12 @@ Yes, it works with all versions of Windows, both 32-bit and 64-bit, except Windo
 - **Launch Portable Executable (PE)**
 - **Obfuscation for Evasion**
 
+
+
+CONTACT :- MY TELEGRAM - https://t.me/hidden9090
+
+
+
 ### Supported Browsers and Tools
 
 - **Enhanced with WebGL Technology**
