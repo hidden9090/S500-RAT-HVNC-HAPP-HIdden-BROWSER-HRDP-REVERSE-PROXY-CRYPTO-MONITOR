@@ -29,7 +29,7 @@ Hidden VNC lets you control your computer without showing any activity on the ma
 <summary>Can intermediate users use this software?</summary>
 Yes, even users with moderate skills can use it easily by pressing a virtual button.
 </details>
-
+ 
 <details>
 <summary>What can I do with Hidden VNC?</summary>
 You can secretly control your remote computer without showing any activity on the main desktop.
