@@ -1,7 +1,7 @@
 ## S-500 HVNC       
   
 The S-500 G2 Rat HVNC is a top remote administration tool with advanced HVNC features. It supports 20 hidden browsers, working in a secret desktop environment to launch multiple browsers by duplicating user profiles. This process is entirely invisible to the user. S-500 also works with applications like Outlook, FoxMail, and Thunderbird while staying hidden. 
-    
+     
 https://t.me/hidden9090             
     
 If not replying you than  I'm busy in that case , please  
