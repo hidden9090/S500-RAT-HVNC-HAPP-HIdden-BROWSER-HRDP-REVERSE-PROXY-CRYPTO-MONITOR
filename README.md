@@ -173,6 +173,8 @@ This source code is for educational purposes only.
 
 This project is licensed under the MIT. For more information, see the [License](LICENSE).
 
+ **First see free demo than purchase private one**                                                                                  
+
 
 Contact for help - https://t.me/hidden9090
 
