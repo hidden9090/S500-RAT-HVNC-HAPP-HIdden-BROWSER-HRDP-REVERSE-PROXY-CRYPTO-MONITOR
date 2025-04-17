@@ -19,7 +19,7 @@ Text my team
 - When the build is complete, select **Start Without Debugging** from the **Debug** menu to run the project.
 
 
-Contact for help - https://t.me/hidden9090   
+Contact for help - https://t.me/hidden9090    
 
 If not replying you than  I'm busy in that case , please 
 Text my team 
